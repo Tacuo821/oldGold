@@ -27,7 +27,7 @@ export default function LifeSecondRoundLP() {
         <li>✔️ 他人のルールじゃなく、自分のルールで生きたい人</li>
         <li>✔️ おしゃれで、かっこよく、楽しみながら挑戦したい人</li>
       </ul>
-     <div>
     </div>
   );
 }
+
